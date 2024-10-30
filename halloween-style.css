@@ -6,7 +6,7 @@ body {
 
 /*class einrichten */
 .halloween-overlay {
-  position: absolute; /*Bild mittig und unter der Schrift */
+  position: relative; /*Bild mittig und unter der Schrift */
   text-align: center;
   color: white;
 }
